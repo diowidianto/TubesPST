@@ -1,4 +1,4 @@
-Tugas Akhir Mata kuliah Perancangan Sistem Tertanam
+Tugas Akhir Mata kuliah Perancangan Sistem Tertanam\n
 Dio Widiantono 
 Pradayan Adhimas Wicaksono 
 Diva Auliya Zulkarnaen
