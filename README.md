@@ -6,6 +6,6 @@
 ##### Figo Brian Zagoto
 
 ##### Video Demo Alat
-##### https://github.com/diowidianto/TubesPST/assets/154110820/55dfeda3-978b-485e-a512-d2f6f8471bea
+##### https://github.com/diowidianto/TubesPST/issues/2#issue-2058300750
 
 ##### Dokumentasi alat
