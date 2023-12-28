@@ -1,4 +1,4 @@
-# Tugas Akhir Mata kuliah Perancangan Sistem Tertanam Kelompok 10
+### Tugas Akhir Mata kuliah Perancangan Sistem Tertanam Kelompok 10
 ##### Dio Widiantono 
 ##### Pradayan Adhimas Wicaksono 
 ##### Diva Auliya Zulkarnaen
